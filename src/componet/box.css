@@ -1,0 +1,25 @@
+.flex {
+  display: flex;
+}
+.div-first {
+  width: 100vw;
+  height: 50vh;
+  background-color: aqua;
+}
+
+.div-third {
+  width: 50vw;
+
+  background-color: #e9c46a;
+}
+
+.flex {
+  display: flex;
+  gap: 5px;
+}
+
+.div-fourth {
+  width: 50vw;
+
+  background-color: #e76f51;
+}
